@@ -1,1 +1,1 @@
-# ukraine_writers
+На занятті ми вивчили систему контролю версій (СКВ), особливо Git. Git дозволяє керувати версіями коду та спільно працювати над проектами. Ми розглянули основні команди Git, такі як git status, git add, git commit, git push, і вивчили концепції комітів, гілок та pull request. Також ознайомилися з командами git merge, git pull, git fetch, git rebase, git cherry-pick та git tag.
